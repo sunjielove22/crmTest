@@ -5,3 +5,4 @@ xiugai1
 ciugai2
 test version manage1
 test version manege2
+test push origin master
